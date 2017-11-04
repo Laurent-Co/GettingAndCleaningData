@@ -27,8 +27,8 @@ It results a matrix of 66 columns and 10299 rows.
 The dataset was merged with the subject and activities datasets in order to add those information in the dataset.
 It results a dataset of 69 colums and 10299 rows
 
-### Creates a second, independent tidy data set with the average of each variable for each activity and each subject
+### Create a second, independent tidy data set with the average of each variable for each activity and each subject
 A second dataset with the average of each variable per activities and per subject was made using the aggregate function
 
-### Editing files
+### Edit files
 A text file and a csv file were edited once the rax data cleaned.
